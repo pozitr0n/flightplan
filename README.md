@@ -6,10 +6,10 @@ There is our knowledge base filled by our experience in programming and building
   * General
   * Backend
   * Frontend
-* Style Guides
+* [Style Guides](/style-guides)
   * Ruby
   * JavaScript
-  * Stylesheets
+  * [Stylesheets](/style-guides/stylesheets.md)
 * Knowledge Base
   * Data Science
   * Computer Science
